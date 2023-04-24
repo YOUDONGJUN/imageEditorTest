@@ -18,8 +18,8 @@ export default {
   text-align: center;
   color: #2c3e50;
   /*margin-top: 60px;*/
-  width: 100%;
-  height: 750px;
+  width: 80%;
+  height: 650px;
 
 }
 </style>
